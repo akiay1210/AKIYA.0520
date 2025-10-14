@@ -1,4 +1,9 @@
-alert(`Hello,Osamu!);
+alert('Hello,Akiya!);
+alert(1+1);
+alert(Math.sqrt(1+1));
 alert(2+3);
-alert(`2`+`3`);
-alert()
+alert('2'+'3');
+alert(Number('2')+Number('3'));
+alert(('2')+3);
+alert(Number('2')+3);
+
