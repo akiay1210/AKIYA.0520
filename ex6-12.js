@@ -1,7 +1,7 @@
 function imgchange1(){
-  document.getElementById('logo').src = './image/download.jpg';
+  document.getElementById('logo').src = './image/S__75644959.jpg';
 }
 
 function imgReset1(){
-  document.getElementById('logo').src = './image/sushi_01.png';
+  document.getElementById('logo').src = './image/S__75644958.jpg';
 }
