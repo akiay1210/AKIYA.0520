@@ -7,5 +7,5 @@ function changePhoto618() {
 
 function returnPhoto618() {
   document.getElementById("myPhoto2").src =
-    "S__75644959.jpg";
+    "image/WINS__75644959.jpg";
 }
